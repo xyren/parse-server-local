@@ -11,7 +11,7 @@
   "dependencies": {
     "dotenv": "^8.2.0",
     "express": "~4.11.x",
-    "kerberos": "~0.0.x",
+    "kerberos": "~1.0.x",
     "nodemailer": "^6.4.6",
     "parse": "~1.8.0",
     "parse-dashboard": "^2.0.5",
